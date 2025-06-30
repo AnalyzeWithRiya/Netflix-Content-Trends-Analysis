@@ -65,7 +65,7 @@ Python allowed fast exploration and cleanup. With structured, accurate data, SQL
 
 🎯 Which directors span multiple genres? → Martin Scorsese, Steven Spielberg, etc.
 
-**See the detailed problem solutions & impact here -** ![MySQL](sql/sql.md)
+**See the detailed problem solutions & impact here -** [MySQL](sql/sql.md)
 
 ---
 
