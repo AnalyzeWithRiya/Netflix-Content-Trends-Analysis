@@ -39,9 +39,10 @@ Before running any analysis, I used Python to:
 - Handle missing values (director, country, etc.)
 - Parse date_added into year_added and month_added
 - Extract numeric values from the duration column
-- Generate a genre WordCloud for fun EDA
-  
-✅ Also created a genre WordCloud to visualize dominant content types.
+- also created a genre WordCloud to visualize dominant content types.
+- and more ....
+
+See the detailed notebook here  
 
 ---
 
@@ -62,7 +63,7 @@ Python allowed fast exploration and cleanup. With structured, accurate data, SQL
 
 🎯 Which countries work with the most directors? → US, India, UK
 
-🎯 Which directors span multiple genres? → Dhawan, Scorsese, etc.
+🎯 Which directors span multiple genres? → Martin Scorsese, Steven Spielberg, etc.
 
 See the detailed problem and solutins in - 
 
@@ -72,7 +73,7 @@ See the detailed problem and solutins in -
 - Movies outnumber Shows: Netflix focuses more on single-session entertainment.
 - TV-MA dominates: Mature content rules.
 - 2010s content > older decades: Streaming thrives on recent material.
-- Comedy + Drama are winning genres.
+- International Movies + Drama are winning genres.
 - Licensed content has metadata gaps (directors, etc.).
 - Shorter show runs (1–2 seasons) dominate – quick-viewing behavior.
 
@@ -121,13 +122,3 @@ Data Cleaning & Feature Engineering
 Business-Driven Data Analysis
 
 ---
-
-
-
-
-
-
-
-
-
-
