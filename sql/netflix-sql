@@ -1,14 +1,7 @@
-🎯 Problem 1: What’s Netflix’s content mix – more Movies or Shows?
+### 🎯 Problem 2: How many titles were released each year?
 
-Count movies vs. tv shows
-SELECT type, COUNT(*) AS count
-FROM netflix_titles
-GROUP BY type;
+📤 **Output:**
 
-📊 Output:
+![Problem 2 Output](i3.jpg)
 
-Type     | Total Records
--------------------------
-Movie    | 6126
-TV Show  | 2664
-
+✅ Netflix content volume spiked after 2015, peaking in 2018–2019.
