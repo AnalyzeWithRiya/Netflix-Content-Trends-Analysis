@@ -21,6 +21,8 @@
 ### 🎯 Problem 3: When did Netflix add the most content?
 
 📤 **Output:**  
+
+![Problem 3 Output]()
 ✅ Netflix's library grew aggressively from 2015 to 2019, with a slowdown during the pandemic.
 
 ---
