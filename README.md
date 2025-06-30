@@ -42,7 +42,7 @@ Before running any analysis, I used Python to:
 - also created a genre WordCloud to visualize dominant content types.
 - and more ....
 
-**See the detailed notebook here -** [Python Notebook](notebook/Netflix.ipynb)
+## **See the detailed notebook here -** [Python Notebook](notebook/Netflix.ipynb)
 
 ---
 
@@ -65,7 +65,7 @@ Python allowed fast exploration and cleanup. With structured, accurate data, SQL
 
 🎯 Which directors span multiple genres? → Martin Scorsese, Steven Spielberg, etc.
 
-**See the detailed problem solutions & impact here -** [MySQL](sql/sql.md)
+## **See the detailed problem solutions & impact here -** [MySQL](sql/sql.md)
 
 ---
 
