@@ -1,6 +1,6 @@
 🎯 Problem 1: What’s Netflix’s content mix – more Movies or Shows?
 
--- Count movies vs. tv shows
+Count movies vs. tv shows
 SELECT type, COUNT(*) AS count
 FROM netflix_titles
 GROUP BY type;
