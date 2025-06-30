@@ -42,8 +42,8 @@ Before running any analysis, I used Python to:
 - also created a genre WordCloud to visualize dominant content types.
 - and more ....
 
-### Explore the full Python analysis here: 
-**👉 [View Python Notebook →](notebook/Netflix.ipynb)**
+     #### Explore the full Python analysis here: 
+     **👉 [View Python Notebook →](notebook/Netflix.ipynb)**
 
 ## Why Python first ❓ 
 Python allowed fast exploration and cleanup. With structured, accurate data, SQL could then be used to efficiently answer key business questions.
