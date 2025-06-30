@@ -42,7 +42,7 @@ Before running any analysis, I used Python to:
 - also created a genre WordCloud to visualize dominant content types.
 - and more ....
 
-See the detailed notebook here  
+**See the detailed notebook here -** [Python Notebook](notebook/Netflix.ipynb)
 
 ---
 
