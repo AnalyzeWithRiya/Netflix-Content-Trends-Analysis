@@ -22,7 +22,8 @@
 
 📤 **Output:**  
 
-![Problem 3 Output]()
+![Problem 3 Output](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/tree/d58eb6c0d00e9fc75ad9a644da862e063316d7fd/images)
+
 ✅ Netflix's library grew aggressively from 2015 to 2019, with a slowdown during the pandemic.
 
 ---
