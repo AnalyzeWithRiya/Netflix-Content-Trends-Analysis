@@ -6,15 +6,15 @@ Beyond the Red Curtain: Mapping Netflix’s Global Content DNA with SQL &amp; Py
 Netflix has revolutionized how the world consumes content. Behind the screens lies a treasure trove of data waiting to be decoded.  
 In this project, I analyzed Netflix’s global content catalog to identify viewer trends, content distribution, and strategic opportunities using **Python** and **MySQL**.
 
----
+
 
 ## 📁 The Data
-- **Source:** Netflix Movies & TV Shows (Kaggle)
+- **Source:** [Netflix Movies & TV Shows](data)
 - **Raw Format:** CSV (~8800 rows, 12 columns)
 - **Cleaned With:** Python (Pandas, WordCloud)
 - **Analyzed With:** SQL (22 real business problems)
 
----
+
 
 ## 📊 Input Data Preview
 
@@ -31,7 +31,7 @@ In this project, I analyzed Netflix’s global content catalog to identify viewe
 | duration      | Length (minutes or seasons)                  |
 | listed_in     | Genre categories                             |
 
----
+
 
 ## 🧼 Python Data Cleaning Highlights
 
@@ -50,7 +50,7 @@ Before running any analysis, I used Python to:
 ## Why Python first ❓ 
 Python allowed fast exploration and cleanup. With structured, accurate data, SQL could then be used to efficiently answer key business questions.
 
----
+
 
 ## Business Problems Solved (SQL)
 
@@ -74,7 +74,7 @@ Python allowed fast exploration and cleanup. With structured, accurate data, SQL
 - Licensed content has metadata gaps (directors, etc.).
 - Shorter show runs (1–2 seasons) dominate – quick-viewing behavior.
 
----
+
 
 ## 🌟 Impact
 
@@ -82,7 +82,7 @@ This project doesn't just analyze data — it uncovers meaningful insights that 
 
 By combining robust data cleaning in Python with real-world SQL business logic, the project simulates how real data teams operate inside global tech companies. Each insight is tied to a metric that helps refine strategy, uncover inefficiencies, or prioritize investments.
 
----
+
 
 ## 🌍 Real-World Impact (If This Were Live)
 
@@ -106,7 +106,7 @@ By combining robust data cleaning in Python with real-world SQL business logic, 
 - Analyze year-over-year trends in content addition and release.
 - Predict which genres or regions will trend next based on growth patterns and past investments.
 
----
+
 
 ## 🛠️ Tools & Skills Used
 
