@@ -36,10 +36,10 @@ In this project, I analyzed Netflix’s global content catalog to identify viewe
 ## 🧼 Python Data Cleaning Highlights
 
 Before running any analysis, I used Python to:
-Handle missing values (director, country, etc.)
-Parse date_added into year_added and month_added
-Extract numeric values from the duration column
-Generate a genre WordCloud for fun EDA
+- Handle missing values (director, country, etc.)
+- Parse date_added into year_added and month_added
+- Extract numeric values from the duration column
+- Generate a genre WordCloud for fun EDA
 ✅ Also created a genre WordCloud to visualize dominant content types.
 
 ---
@@ -51,21 +51,20 @@ Python allowed fast exploration and cleanup. With structured, accurate data, SQL
 
 ## Business Problems Solved (SQL)
 
-- 22 real-world problems answered using SQL — including:
+22 real-world problems answered using SQL — including:
 
-- 🎯 What's the content mix? → ~70% Movies
-- 🎯 What rating dominates? → TV-MA rules
-- 🎯 What’s the longest movie? → Black Mirror (312 mins)
-- 🎯 Which countries work with the most directors? → US, India, UK
-- 🎯 Which directors span multiple genres? → Dhawan, Scorsese, etc.
+🎯 What's the content mix? → ~70% Movies
+🎯 What rating dominates? → TV-MA rules
+🎯 What’s the longest movie? → Black Mirror (312 mins)
+🎯 Which countries work with the most directors? → US, India, UK
+🎯 Which directors span multiple genres? → Dhawan, Scorsese, etc.
 
 See the detailed problem and solutins in - 
 
 ---
 
 📌 Key Insights Delivered
-
--Movies outnumber Shows: Netflix focuses more on single-session entertainment.
+- Movies outnumber Shows: Netflix focuses more on single-session entertainment.
 - TV-MA dominates: Mature content rules.
 - 2010s content > older decades: Streaming thrives on recent material.
 - Comedy + Drama are winning genres.
@@ -75,16 +74,16 @@ See the detailed problem and solutins in -
 ---
 
 🌟 Impact
-- This project doesn't just analyze data — it uncovers meaningful insights that can directly drive decisions at Netflix across multiple departments.
+This project doesn't just analyze data — it uncovers meaningful insights that can directly drive decisions at Netflix across multiple departments.
 
-- By combining robust data cleaning in Python with real-world SQL business logic, the project simulates how real data teams operate inside global tech companies. Each insight is tied to a metric that helps refine strategy, uncover inefficiencies, or prioritize investments.
+By combining robust data cleaning in Python with real-world SQL business logic, the project simulates how real data teams operate inside global tech companies. Each insight is tied to a metric that helps refine strategy, uncover inefficiencies, or prioritize investments.
 
 ---
 
 🌍 Real-World Impact (If This Were Live)
-- 🎯 Content Strategy:
-- - Identify the most in-demand genres by country or rating.
-- - Balance the content mix between bingeable short shows and high-engagement long-format films.
+🎯 Content Strategy:
+     - Identify the most in-demand genres by country or rating.
+     - Balance the content mix between bingeable short shows and high-engagement long-format films.
 
 🛠️ Product & Engineering:
 - Refine recommendation systems using cleaned duration, genre, and rating data.
