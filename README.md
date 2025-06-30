@@ -43,7 +43,7 @@ Before running any analysis, I used Python to:
 - and more ....
 
      #### Explore the full Python analysis here: 
-     **👉 [View Python Notebook →](notebook/Netflix.ipynb)**
+     **→ [View Python Notebook](notebook/Netflix.ipynb)**
 
 ## Why Python first ❓ 
 Python allowed fast exploration and cleanup. With structured, accurate data, SQL could then be used to efficiently answer key business questions.
@@ -64,8 +64,8 @@ Python allowed fast exploration and cleanup. With structured, accurate data, SQL
 
 🎯 Which directors span multiple genres? → Martin Scorsese, Steven Spielberg, etc.
 
-## The project solves 22 real-world business questions using MySQL.  
-**→ [Click here to explore the SQL logic](sql/sql.md)**
+   #### The project solves 22 real-world business questions using MySQL:
+   **→ [Click here to explore the SQL logic](sql/sql.md)**
 
 ## 📌 Key Insights Delivered
 - Movies outnumber Shows: Netflix focuses more on single-session entertainment.
