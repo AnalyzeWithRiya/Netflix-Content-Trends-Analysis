@@ -68,7 +68,7 @@ See the detailed problem and solutins in -
 
 ---
 
-📌 Key Insights Delivered
+## 📌 Key Insights Delivered
 - Movies outnumber Shows: Netflix focuses more on single-session entertainment.
 - TV-MA dominates: Mature content rules.
 - 2010s content > older decades: Streaming thrives on recent material.
@@ -78,44 +78,43 @@ See the detailed problem and solutins in -
 
 ---
 
-🌟 Impact
+## 🌟 Impact
+
 This project doesn't just analyze data — it uncovers meaningful insights that can directly drive decisions at Netflix across multiple departments.
 
 By combining robust data cleaning in Python with real-world SQL business logic, the project simulates how real data teams operate inside global tech companies. Each insight is tied to a metric that helps refine strategy, uncover inefficiencies, or prioritize investments.
 
 ---
 
-🌍 Real-World Impact (If This Were Live)
+## 🌍 Real-World Impact (If This Were Live)
+
 🎯 Content Strategy:
-     - Identify the most in-demand genres by country or rating.
-     - Balance the content mix between bingeable short shows and high-engagement long-format films.
+- Identify the most in-demand genres by country or rating.
+- Balance the content mix between bingeable short shows and high-engagement long-format films.
 
 🛠️ Product & Engineering:
 - Refine recommendation systems using cleaned duration, genre, and rating data.
-
-Support UI/UX decisions with insights on popular formats, genres, and runtimes.
+- Support UI/UX decisions with insights on popular formats, genres, and runtimes.
 
 📈 Growth & Marketing
-Promote titles with universal appeal (e.g., international dramas, comedy + romance crossovers).
-
-Plan regional campaigns based on high-output or high-diversity countries.
+- Promote titles with universal appeal (e.g., international dramas, comedy + romance crossovers).
+- Plan regional campaigns based on high-output or high-diversity countries.
 
 📦 Content Acquisition & Licensing
-Target partnerships with directors working across genres and countries.
-
-Flag incomplete or missing metadata (e.g., 2500+ titles without directors) to improve catalog quality.
+- Target partnerships with directors working across genres and countries.
+- Flag incomplete or missing metadata (e.g., 2500+ titles without directors) to improve catalog quality.
 
 🔮 Forecasting & Planning
-Analyze year-over-year trends in content addition and release.
-
-Predict which genres or regions will trend next based on growth patterns and past investments.
+- Analyze year-over-year trends in content addition and release.
+- Predict which genres or regions will trend next based on growth patterns and past investments.
 
 ---
 
-🛠️ Tools & Skills Used
-Python: Pandas, NumPy, Matplotlib, WordCloud
+## 🛠️ Tools & Skills Used
 
-SQL: Joins, Aggregates, CTEs, Date Functions
+Python:  Pandas, NumPy, Matplotlib, WordCloud
+
+SQL:   Joins, Aggregates, CTEs, Date Functions
 
 Data Cleaning & Feature Engineering
 
