@@ -36,14 +36,16 @@ In this project, I analyzed Netflix’s global content catalog to identify viewe
 ## 🧼 Python Data Cleaning Highlights
 
 Before running any analysis, I used Python to:
-- Handle missing values (director, country, etc.)
-- Parse date_added into year_added and month_added
-- Extract numeric values from the duration column
+- Handle missing values (director, country, etc.).
+- Parse date_added into year_added and month_added.
+- Extract numeric values from the duration column.
 - also created a genre WordCloud to visualize dominant content types.
-- and more ....
+- and many more ....
 
      #### Explore the full Python analysis here: 
      **→ [View Python Notebook](notebook/Netflix.ipynb)**
+
+  
 
 ## Why Python first ❓ 
 Python allowed fast exploration and cleanup. With structured, accurate data, SQL could then be used to efficiently answer key business questions.
@@ -53,19 +55,16 @@ Python allowed fast exploration and cleanup. With structured, accurate data, SQL
 ## Business Problems Solved (SQL)
 
 22 real-world problems answered using SQL — including:
+ - What's the content mix? → ~70% Movies.
+ - What rating dominates? → TV-MA rules.
+ - What’s the longest movie? → Black Mirror (312 mins).
+ - Which countries work with the most directors? → US, India, UK.
+ - Which directors span multiple genres? → Martin Scorsese, Steven Spielberg, etc.
 
-🎯 What's the content mix? → ~70% Movies
+      #### The project solves 22 real-world business questions using MySQL:
+      **→ [Click here to explore the SQL logic](sql/sql.md)**
 
-🎯 What rating dominates? → TV-MA rules
-
-🎯 What’s the longest movie? → Black Mirror (312 mins)
-
-🎯 Which countries work with the most directors? → US, India, UK
-
-🎯 Which directors span multiple genres? → Martin Scorsese, Steven Spielberg, etc.
-
-   #### The project solves 22 real-world business questions using MySQL:
-   **→ [Click here to explore the SQL logic](sql/sql.md)**
+   
 
 ## 📌 Key Insights Delivered
 - Movies outnumber Shows: Netflix focuses more on single-session entertainment.
