@@ -12,7 +12,7 @@
 
 📤 **Output:**  
 
-![Problem 2 Output](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/blob/f812754a1ddc959042226490a72a884617431aaf/images/i4.jpg)
+![Problem 2 Output](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/blob/21f9834cf8da8e5c96d86d4375ab1ee48af05a16/images/i4.jpg)
 
 ✅ Netflix content volume spiked after 2015, peaking in 2018–2019.
 
@@ -22,7 +22,7 @@
 
 📤 **Output:**  
 
-![Problem 3 Output](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/tree/d58eb6c0d00e9fc75ad9a644da862e063316d7fd/images)
+![Problem 3 Output](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/blob/21f9834cf8da8e5c96d86d4375ab1ee48af05a16/images/i5.jpg)
 
 ✅ Netflix's library grew aggressively from 2015 to 2019, with a slowdown during the pandemic.
 
@@ -31,6 +31,9 @@
 ### 🎯 Problem 4: Who are Netflix’s most featured directors?
 
 📤 **Output:**  
+
+![Problem 4 Output](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/blob/21f9834cf8da8e5c96d86d4375ab1ee48af05a16/images/i6.jpg)
+
 ✅ Directors like Raúl Campos and Marcus Raboy lead, especially in stand-up comedy and family specials.
 
 ---
@@ -38,6 +41,9 @@
 ### 🎯 Problem 5: What’s the rating distribution of Netflix content?
 
 📤 **Output:**  
+
+![Problem 5 Output](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/blob/21f9834cf8da8e5c96d86d4375ab1ee48af05a16/images/i7.jpg)
+
 ✅ TV-MA dominates, targeting mature audiences; TV-14 and PG-13 follow for teens and young adults.
 
 ---
@@ -45,6 +51,9 @@
 ### 🎯 Problem 6: Do content ratings vary between Movies and Shows?
 
 📤 **Output:**  
+
+![Problem 6 Output](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/blob/21f9834cf8da8e5c96d86d4375ab1ee48af05a16/images/i8.jpg)
+
 ✅ TV Shows lean toward TV-14, while Movies skew mature with TV-MA and PG-13 ratings.
 
 ---
@@ -52,6 +61,9 @@
 ### 🎯 Problem 7: Which show never ends?
 
 📤 **Output:**  
+
+![ ](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/blob/21f9834cf8da8e5c96d86d4375ab1ee48af05a16/images/i9.jpg)
+
 ✅ Long-running shows like Grey’s Anatomy anchor subscriptions with 10+ seasons.
 
 ---
