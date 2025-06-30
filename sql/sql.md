@@ -12,7 +12,7 @@
 
 📤 **Output:**  
 
-![Problem 2 Output]()
+![Problem 2 Output](https://github.com/AnalyzeWithRiya/Netflix-Content-Trends-Analysis/blob/f812754a1ddc959042226490a72a884617431aaf/images/i4.jpg)
 
 ✅ Netflix content volume spiked after 2015, peaking in 2018–2019.
 
