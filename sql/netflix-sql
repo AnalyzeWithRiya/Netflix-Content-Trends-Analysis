@@ -1,1 +1,14 @@
+### 🎯 Problem 1: What’s Netflix’s content mix – more Movies or Shows?
+
+```sql
+SELECT type, COUNT(*) AS 'Total Records'
+FROM netflix_titles
+GROUP BY type;
+
+📊 Output:
+
+Type     | Total Records
+-------------------------
+Movie    | 6126
+TV Show  | 2664
 
