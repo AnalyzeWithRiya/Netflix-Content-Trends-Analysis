@@ -40,6 +40,7 @@ Before running any analysis, I used Python to:
 - Parse date_added into year_added and month_added
 - Extract numeric values from the duration column
 - Generate a genre WordCloud for fun EDA
+  
 ✅ Also created a genre WordCloud to visualize dominant content types.
 
 ---
@@ -54,9 +55,13 @@ Python allowed fast exploration and cleanup. With structured, accurate data, SQL
 22 real-world problems answered using SQL — including:
 
 🎯 What's the content mix? → ~70% Movies
+
 🎯 What rating dominates? → TV-MA rules
+
 🎯 What’s the longest movie? → Black Mirror (312 mins)
+
 🎯 Which countries work with the most directors? → US, India, UK
+
 🎯 Which directors span multiple genres? → Dhawan, Scorsese, etc.
 
 See the detailed problem and solutins in - 
