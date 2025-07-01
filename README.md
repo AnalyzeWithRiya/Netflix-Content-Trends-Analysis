@@ -1,4 +1,4 @@
-                                                                              Netflix Streamlining Deconstructed
+<h3 align="center">Netflix-Streamlining: Deconstructed</h3>                                                                          
 
 ![a-modern-abstract-infographic-poster-dep_MNy7IfAwQuSppG9hcTXGeQ_OKx1ZxniR6SazA5hGs82vQ](https://github.com/user-attachments/assets/ce49827c-92f2-48bb-a985-2f877d47f17c)
                                                                        
