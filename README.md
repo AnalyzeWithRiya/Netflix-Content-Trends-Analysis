@@ -1,4 +1,7 @@
-# Netflix-Content-Trends-Analysis
+                                                                              Netflix Streamlining Deconstructed
+
+![a-modern-abstract-infographic-poster-dep_MNy7IfAwQuSppG9hcTXGeQ_OKx1ZxniR6SazA5hGs82vQ](https://github.com/user-attachments/assets/ce49827c-92f2-48bb-a985-2f877d47f17c)
+                                                                       
 Beyond the Red Curtain: Mapping Netflix’s Global Content DNA with SQL &amp; Python. Using Python for cleaning and MySQL for exploration, I mapped Netflix’s global content trends—by genre, runtime, region, and more. Discover what drives the catalog behind your favorite binge, and how data tells the story behind the red curtain.
 
 
