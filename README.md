@@ -123,3 +123,6 @@ Data Cleaning & Feature Engineering
 Business-Driven Data Analysis
 
 ---
+
+![_- visual selection (2)](https://github.com/user-attachments/assets/0272fd42-973d-4cdc-ba30-94a7a9545c23)
+
