@@ -1,6 +1,6 @@
 <h1 align="center">Netlytics – (Netflix + Analytics)</h1>                                                                          
 
-![a-modern-abstract-infographic-depicting-_0p4uAnxrRwy1X-2LJo8Oaw_8c5SKlfzQ2qBtZCpodYJ7g](https://github.com/user-attachments/assets/902e498b-c3b6-42c6-aa1d-651167f83362)
+![images/cover image.jpeg](https://github.com/user-attachments/assets/902e498b-c3b6-42c6-aa1d-651167f83362)
 
                                                                        
 Beyond the Red Curtain: Mapping Netflix’s Global Content DNA with SQL &amp; Python. Using Python for cleaning and MySQL for exploration, I mapped Netflix’s global content trends—by genre, runtime, region, and more. Discover what drives the catalog behind your favorite binge, and how data tells the story behind the red curtain.
