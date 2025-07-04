@@ -123,6 +123,5 @@ Data Cleaning & Feature Engineering
 Business-Driven Data Analysis
 
 ---
-![work flow](https://github.com/user-attachments/assets/d7e3138d-8646-49e7-91e0-58d2fdb02f73)
 
 
